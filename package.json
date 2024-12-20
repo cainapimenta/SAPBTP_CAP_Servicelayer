@@ -61,6 +61,10 @@
           "html5-repo": true,
           "destination": true
         }
+      },
+      "API_B1_SERVICE_LAYER": {
+        "kind": "odata",
+        "model": "srv/external/API_B1_SERVICE_LAYER"
       }
     },
     "hana": {
